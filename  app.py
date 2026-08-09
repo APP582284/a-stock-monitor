@@ -1,10 +1,3 @@
-"""
-A股实时资金流向监控看板
-技术栈：Streamlit + AKShare + Plotly
-数据源：东方财富（通过AKShare封装）
-⚠️ 仅供个人学习研究，不构成任何投资建议
-"""
-
 import streamlit as st
 import akshare as ak
 import pandas as pd
