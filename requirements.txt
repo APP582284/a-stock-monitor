@@ -1,4 +1,4 @@
-streamlit
-akshare
-pandas
-plotly
+streamlit>=1.30.0
+akshare>=1.16.5
+熊猫> =2.0.0
+plotly>=5.18.0
